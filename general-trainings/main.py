@@ -1,2 +1,2 @@
 print("Hello world")
-print(dir(""))
+print(dir("".__eq__("1")))
